@@ -1,4 +1,4 @@
-![Texto alternativo](https://github.com/MarceCorreal/Proyecto_Final/blob/main/Logo%202.png)).
+![Texto alternativo](https://github.com/MarceCorreal/Proyecto_Final/blob/main/Logo%202.png)
 
 ##  Contexto general del trabajo
 
