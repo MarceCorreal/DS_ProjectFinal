@@ -1,4 +1,4 @@
-# DS_ProjectFinal
+![Texto alternativo](https://url-de-la-imagen.com/Logo 2.png).
 
 ##  Contexto general del trabajo
 
